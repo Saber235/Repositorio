@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese las Nota:'
+5
+1
+11
+n1,n2,n3,n4
+6
+1
+8
+Promedio
+15
+(n1+n2+n3+n4)/4
+7
+0
+1
+11
+Promedio>=3
+4
+1
+13
+'No Aprobado'
+13
+4
+1
+10
+'Aprobado'
+13
+1
