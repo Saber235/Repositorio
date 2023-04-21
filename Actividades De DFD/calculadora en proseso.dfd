@@ -6,12 +6,12 @@
 0
 4
 1
-14
-创bienvenid@创
+12
+'bienvenid@'
 4
 1
-279
-创Selecione la funcion que desea realizar              1 suma                                                                 2 resta                                                                  3 multiplicacion                                                     4 salida创 
+349
+'Selecione la funcion que desea realizar              1 suma                                                                 2 resta                                                                  3 multiplicacion                                                     4 divicion                                                               5 salida'
 5
 1
 3
@@ -28,34 +28,94 @@ opc=1
 opc=2
 7
 0
+1
+5
+opc=3
+7
 0
+1
+5
+opc=4
+7
+0
+1
+5
+opc=5
 13
 4
-0
-5
-0
-4
-0
-5
-0
-6
-0
-4
-0
+1
+43
+'Muchas gracia por utilisar la calculadora'
 13
 13
 4
 1
-27
-创ingrese el primer valor创
+25
+'ingrese el primer valor'
 5
 1
 1
 x
 4
 1
-28
-创ingrese el segundo valor创
+26
+'ingrese el segundo valor'
+5
+1
+1
+z
+6
+1
+8
+divicion
+3
+x/z
+4
+1
+61
+'el resultado de la resta es igual a: '             ,divicion
+13
+13
+4
+1
+25
+'ingrese el primer valor'
+5
+1
+1
+x
+4
+1
+26
+'ingrese el segundo valor'
+5
+1
+1
+z
+6
+1
+14
+multiplicacion
+3
+x*z
+4
+1
+67
+'el resultado de la resta es igual a: '             ,multiplicacion
+13
+13
+4
+1
+25
+'ingrese el primer valor'
+5
+1
+1
+x
+4
+1
+26
+'ingrese el segundo valor'
 5
 1
 1
@@ -69,21 +129,21 @@ x-z
 4
 1
 58
-创el resultado de la resta es igual a: 创           ,resta
+'el resultado de la resta es igual a: '             ,resta
 13
 13
 4
 1
-27
-创ingrese el primer valor创
+25
+'ingrese el primer valor'
 5
 1
 1
 x
 4
 1
-28
-创ingrese el segundo valor创
+26
+'ingrese el segundo valor'
 5
 1
 1
@@ -96,7 +156,7 @@ suma
 x+z
 4
 1
-54
-创el resultado de la suma es igual a: 创        ,sumas
+53
+'el resultado de la suma es igual a:'           ,suma
 13
 1
