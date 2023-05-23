@@ -1,0 +1,48 @@
+#navegador ul {
+    list-style: none;
+    text-align: center;
+    background-color: #6CF175;
+    height: 60px; 
+    font-family: 'Delicious Handrawn', cursive;
+    height: 60px;
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a{
+    padding: 2px 7px 2px 7px;
+    color: #ffff;
+    background-color: #6CF175;
+    text-decoration: none;
+    font-family: 'Delicious Handrawn', cursive;
+
+}
+#navegador li a:hover{background-color: #0faafd;
+    color: #ffff;
+    height: 10px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+#f{
+    top: 40px;
+    color: #6CF175;
+    background-color: #6CF175;
+    width: 1850px;
+    height: 60px;
+    margin-top: 290px;
+}
+#logo2{
+    opacity: 0,3;
+    margin-left: 640px;
+    margin-top: -90px;
+    opacity: 0,3;
+}
+#logo{
+    
+    margin-left: -20px;
+}
+
+    
